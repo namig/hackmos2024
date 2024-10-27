@@ -16,6 +16,10 @@ https://docs.google.com/presentation/d/1APtsZOgxYNlUA4yWOvJ4cM14t9rtCgfi7CkNYBN5
 
 ![MVP Architecture](./architecture.png)
 
+### Whitepaper
+
+https://docsend.com/view/bchs8x3anb9wpcws
+
 ### Components:
 
 Interface:
