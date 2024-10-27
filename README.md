@@ -7,10 +7,10 @@ in the MVP we have enabled borrowing from Aave (Eth) through Zeromile to Osmosis
 https://docs.google.com/presentation/d/1APtsZOgxYNlUA4yWOvJ4cM14t9rtCgfi7CkNYBN5Alw/edit?usp=sharing
 
 ### MVP:
-We develop smart contract on agoric for borrowing USDC by ETH on osmosis chain.
-User deposit ETH from osmosis wallet to agoric smart contract and will receive USDC to his osmosis wallet.
-Smart contract must lock ETH until Solver transfer USDC to User's osmosis wallet.
-Solver works as market maker temporarily. Solver handle user borrowing requests and send USDC to User's osmosis wallet.
+- We develop smart contract on agoric for borrowing USDC by ETH on osmosis chain.
+- User deposit ETH from osmosis wallet to agoric smart contract and will receive USDC to his osmosis wallet.
+- Smart contract must lock ETH until Solver transfer USDC to User's osmosis wallet.
+- Solver works as market maker temporarily. Solver handle user borrowing requests and send USDC to User's osmosis wallet.
 
 ### MVP Architecture
 
