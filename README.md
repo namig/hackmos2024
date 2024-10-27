@@ -44,5 +44,7 @@ Solver offchain backend logic:
 - Our backend notify Solver for providing USDC to User osmosis waller
 - Solver send USDC to User osmosis wallet
 
+### UI
 
+![UI](./ui.jpg)
 
