@@ -1,8 +1,22 @@
-Concept:
+### ZeroMile
+
+ZeroMile enables Defi dapps to go cross chain with concentrated liquidity with its unique intent based system that does not require bridges or any other messaging layer.
+
+in the MVP we have enabled borrowing from Aave (Eth) through Zeromile to Osmosis users.
+
+https://docs.google.com/presentation/d/1APtsZOgxYNlUA4yWOvJ4cM14t9rtCgfi7CkNYBN5Alw/edit?usp=sharing
+
+### MVP:
 We develop smart contract on agoric for borrowing USDC by ETH on osmosis chain.
 User deposit ETH from osmosis wallet to agoric smart contract and will receive USDC to his osmosis wallet.
 Smart contract must lock ETH until Solver transfer USDC to User's osmosis wallet.
-Solver works as market maker. Solver handle user borrowing requests and send USDC to User's osmosis wallet.
+Solver works as market maker temporarily. Solver handle user borrowing requests and send USDC to User's osmosis wallet.
+
+### MVP Architecture
+
+![MVP Architecture](./architecture.png)
+
+### Components:
 
 Interface:
 - User login with keplr wallet
