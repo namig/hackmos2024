@@ -2,7 +2,7 @@
 
 ZeroMile enables Defi dapps to go cross chain with concentrated liquidity with its unique intent based system that does not require bridges or any other messaging layer.
 
-in the MVP we have enabled borrowing from Aave (Eth) through Zeromile to Osmosis users.
+in the MVP we tried to make DApp to borrowing USDC by ETH
 
 https://docs.google.com/presentation/d/1APtsZOgxYNlUA4yWOvJ4cM14t9rtCgfi7CkNYBN5Alw/edit?usp=sharing
 
